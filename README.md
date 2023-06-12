@@ -17,5 +17,22 @@ The EMI Calculator is a web-based tool that helps users calculate their Equated 
 
 ![image](https://github.com/soniadiwedi/EMIcalculator/assets/112754761/6e4f8371-26c1-4618-9ceb-71d2cea9cf42)
 
+## Login Page
 
+![image](https://github.com/soniadiwedi/EMIcalculator/assets/112754761/df7019cb-4005-4a3b-9d27-387f4f5bb5f7)
+
+## Profile Page
+
+![image](https://github.com/soniadiwedi/EMIcalculator/assets/112754761/82601844-aba6-4682-ba46-2c0c17c9c18e)
+
+
+## EMI Page
+
+![image](https://github.com/soniadiwedi/EMIcalculator/assets/112754761/5c046376-e1f0-4e6f-a67f-f3434e3aae83)
+
+
+## Technologies Used
+1. React: JavaScript library for building user interfaces.
+2. Chakra UI: Component library for building responsive and accessible UI.
+3. Recharts: Library for creating charts and visualizations.
 
