@@ -14,6 +14,8 @@ The EMI Calculator is a web-based tool that helps users calculate their Equated 
 3. Start the development server: `npm start`
 
 ## Register Page
-![Uploading image.png…]
+
+![image](https://github.com/soniadiwedi/EMIcalculator/assets/112754761/6e4f8371-26c1-4618-9ceb-71d2cea9cf42)
+
 
 
