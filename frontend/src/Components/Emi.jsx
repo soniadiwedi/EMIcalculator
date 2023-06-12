@@ -43,7 +43,7 @@ export const Emi = () => {
 
   return (
     <>
-    <Box w={'50%'}  m={'auto'} marginTop={"5%"}  >
+    <Box w={'50%'}  m={'auto'} marginTop={"5%"} backgroundColor={'white'} p={'10'} borderRadius={'50'} boxShadow={'5px 5px 5px 5px red '} >
       <Flex>
       <Box gap={'20px'}>
 

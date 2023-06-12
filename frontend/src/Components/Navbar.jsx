@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom'
 export const Navbar = () => {
   return (
    <Box>
-    <Flex justifyContent={'center'} gap={'90px'} h={'100px'} backgroundColor={'orange'} textAlign={'center'} alignItems={'center'} fontWeight={'bold'} fontSize={'3xl'} fontStyle={'revert'}>
+    <Flex justifyContent={'center'} gap={'90px'} h={'100px'} color={'red'} textAlign={'center'} alignItems={'center'} fontWeight={'bold'} fontSize={'3xl'} fontStyle={'revert'}>
     <Link to='/'>Register</Link>
     <Link to='/login'>Login</Link>
     <Link to='/profile'>Profile</Link>

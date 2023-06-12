@@ -31,7 +31,7 @@ export const Profile = () => {
  // console.log("input",input?.user?.name);
 
   return (
-    <Box>
+    <Box backgroundColor={'white'} width={'50%'} m={'auto'} mt={'20'} boxShadow={'5px 5px 5px 5px red '} p={'5'}>
        <Heading fontSize={'xl'} >Welcome, {input?.user?.name}</Heading>
       <Text>Email : {input?.user?.email}</Text> 
       <Text>Time Stamp : {getCurrentTimestamp()}</Text>

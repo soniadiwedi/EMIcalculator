@@ -28,7 +28,7 @@ export const Login = () => {
     }).catch((e)=>console.log(e))
   }
   return (
-    <Box width={'50%'} m={'auto'} mt={'20'} boxShadow={'5px 5px 5px 5px orange '}  p={'5'}>
+    <Box backgroundColor={'white'} width={'50%'} m={'auto'} mt={'20'} boxShadow={'5px 5px 5px 5px red '}  p={'5'}>
       
 <FormControl >
  
